@@ -1,0 +1,108 @@
+# Blender MTL File: 'Godzilla1975EXPORT.blend'
+# Material Count: 8
+
+newmtl Material.001
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.119538 0.127438 0.141263
+Ks 0.119538 0.127438 0.141263
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g74.psd
+map_Bump g75_NORM.png
+map_Ka g75.psd
+map_Ks g75.psd
+
+newmtl Material.001_g73.psd
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.119538 0.127438 0.141263
+Ks 0.119538 0.127438 0.141263
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g73.psd
+map_Bump g75_NORM.png
+map_Ka g75.psd
+map_Ks g75.psd
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.658862 0.515877 0.322608
+Ks 0.658375 0.514918 0.323143
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g74_claws.png
+map_Ka g75_claws.png
+map_Ks g75_claws.png
+
+newmtl Material.003
+Ns 749.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g74_eye.psd
+map_Ks g75_eye.psd
+
+newmtl Material.005
+Ns 624.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.234551 0.093059 0.063010
+Ks 0.234551 0.093059 0.063010
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g74_mouth.png
+map_Bump g75_mouth_NORM.png
+map_Ka g75_mouth.png
+map_Ks g75_mouth.png
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.638525 0.402968
+Ks 1.000000 0.637597 0.401978
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g74_teeth.png
+
+newmtl Material.007
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g74_spines.psd
+map_Bump g75_spines_NORM.png
+map_Ka g75_spines.psd
+map_Ks g75_spines.psd
+
+newmtl Material.008
+Ns 624.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.134247 0.054480 0.037544
+Ks 0.135633 0.054480 0.036889
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd g74_ble.png
+map_Bump g75_ble_NORM.png
+map_Ka g75_ble.png
+map_Ks g75_ble.png

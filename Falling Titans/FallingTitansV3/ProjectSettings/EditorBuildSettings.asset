@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: d9f38d20c518fcc45868931a0560c5e7
+  - enabled: 1
+    path: Assets/Scenes/ArenaOne.unity
+    guid: 116f7829c11befb49bbe0b337a759d74
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 5810349da2b3ce04faaec435ccd33223
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6d480d90942fa4e479068df3cf274a79
+  - enabled: 1
+    path: Assets/Scenes/ArenaFive.unity
+    guid: 7e3ff357e4909fc4493e3fe88eda579a
+  - enabled: 1
+    path: Assets/Scenes/ArenaFour.unity
+    guid: dd91fe0d9e6af174f8764d7ca02c220e
+  - enabled: 1
+    path: Assets/Scenes/ArenaThree.unity
+    guid: ffc757e0c4149e8489c7723e2d3a0564
+  - enabled: 1
+    path: Assets/Scenes/ArenaTwo.unity
+    guid: e865090eea9e0ef4095888930d0a8f2d
+  - enabled: 1
+    path: Assets/Scenes/PlayerSetup.unity
+    guid: 500ffb15c001795439584eca8abb274f
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayerTest.unity
+    guid: 2bda6cdf3b3cdc04dbbac6b806d070ee
+  - enabled: 1
+    path: Assets/Scenes/EightPlayerSetup.unity
+    guid: 23db76ce89eefdf42bd25d64c3a0617f
